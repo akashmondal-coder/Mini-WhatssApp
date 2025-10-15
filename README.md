@@ -24,29 +24,6 @@ It allows users to create, view, edit, and delete chat messages — simulating a
 
 ---
 
-## 📁 Folder Structure
-
-Mini-Whatsapp-Chat-App/
-│
-├── models/
-│ └── chat.js
-│
-├── public/
-│ └── style.css
-│
-├── views/
-│ ├── index.ejs
-│ ├── new.ejs
-│ └── edit.ejs
-│
-├── init.js
-├── index.js
-├── package.json
-├── package-lock.json
-└── node_modules/
-
----
-
 ## 💡 How It Works
 1. **Homepage (/chats)** displays all saved chats.  
 2. **/chats/new** lets you create a new chat message.  
