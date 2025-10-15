@@ -38,27 +38,27 @@ It allows users to create, view, edit, and delete chat messages — simulating a
 ```bash
 git clone https://github.com/akashmondal-coder/Mini-Whatsapp-Chat-App.git
 
-###2️⃣ Install dependencies
+### 2️⃣ Install dependencies
 npm install
 
-###3️⃣ Start MongoDB server
+### 3️⃣ Start MongoDB server
 Make sure MongoDB is running locally (default: mongodb://127.0.0.1:27017/)
 
-###4️⃣ Initialize sample data
+### 4️⃣ Initialize sample data
 node init.js
 
-###5️⃣ Run the application
+### 5️⃣ Run the application
 node index.js
 Now open your browser and visit 👉 http://localhost:8080/chats
 
 ---
 
-##📸 Screenshots 
+## 📸 Screenshots 
 <img width="1514" height="864" alt="Screenshot 2025-10-15 125258" src="https://github.com/user-attachments/assets/0c6430f0-de98-457e-8453-31b6592cd986" />
 
 ---
 
-##👨‍💻 Author
+## 👨‍💻 Author
 **Akash Mondal**  
 🔗 [LinkedIn](https://www.linkedin.com/in/akashmondal956)  
 💻 [GitHub](https://github.com/akashmondal-coder)
@@ -71,7 +71,7 @@ This project performs complete CRUD operations using Node.js and MongoDB.
 
 ---
 
-##🧠 Future Enhancements
+## 🧠 Future Enhancements
 Add user authentication
 Add real-time messaging using Socket.io
 Improve UI with Bootstrap or Tailwind CSS
